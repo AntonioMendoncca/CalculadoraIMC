@@ -19,7 +19,17 @@ Aplicativo Android feito com **Kotlin + Jetpack Compose** para calcular o IMC do
 3. Rode no emulador ou celular
 
 ##  📷 Preview!
-![626304190_922323457034428_5833379267460007731_n](https://github.com/user-attachments/assets/68a5b0ef-c69a-4c38-a544-05b31eb40031)
-![620308517_922633400352417_8626832715206713160_n](https://github.com/user-attachments/assets/a579467f-aecf-4fd2-a53e-09
-![622460261_4230537013830844_5060001331620266254_n](https://github.com/user-attachments/assets/f1f8c3c6-2cb6-40dd-b83d-f7e4cbb674d1)
-643c5c9570)
+
+![622460261_4230537013830844_5060001331620266254_n](https://github.com/user-attachments/assets/2a8a955c-42d6-480d-b932-fdbfafd520d7)
+
+
+
+
+![620308517_922633400352417_8626832715206713160_n](https://github.com/user-attachments/assets/8b7fcd55-28aa-4534-969b-c60e60cd0c02)
+
+
+
+
+
+
+![626304190_922323457034428_5833379267460007731_n](https://github.com/user-attachments/assets/fda7ceb3-b2cd-4cd1-8d04-a3988f4c71a5)
