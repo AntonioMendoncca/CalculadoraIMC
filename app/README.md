@@ -20,6 +20,6 @@ Aplicativo Android feito com **Kotlin + Jetpack Compose** para calcular o IMC do
 
 ##  📷qPreview!
 
-1. ![626304190_922323457034428_5833379267460007731_n.jpg](../../../AppData/Local/Temp/626304190_922323457034428_5833379267460007731_n.jpg)
-2. ![620308517_922633400352417_8626832715206713160_n.jpg](../../../AppData/Local/Temp/620308517_922633400352417_8626832715206713160_n.jpg)
-3. ![622460261_4230537013830844_5060001331620266254_n.jpg](../../../AppData/Local/Temp/622460261_4230537013830844_5060001331620266254_n.jpg)
+1. ![preview1.jpg](../imagens/preview1.jpg)
+2. ![preview2.jpg](../imagens/preview2.jpg)
+3. ![preview3.jpg](../imagens/preview3.jpg)
